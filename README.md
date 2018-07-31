@@ -1,3 +1,3 @@
-DDOS master v0.1
+DDOS master v0.1b
 
 Youtube: https://youtu.be/xReLjjjSmjE
